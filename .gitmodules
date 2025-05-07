@@ -7,3 +7,6 @@
 [submodule "8bkc-gamegear"]
 	path = 8bkc-gamegear
 	url = https://github.com/shreechandansamal/8bkc-gamegear.git
+[submodule "8bkc-gnuboy"]
+	path = 8bkc-gnuboy
+	url = https://github.com/shreechandansamal/8bkc-gnuboy.git
