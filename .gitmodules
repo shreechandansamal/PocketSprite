@@ -4,3 +4,6 @@
 [submodule "8bkc-chooser"]
 	path = 8bkc-chooser
 	url = https://github.com/shreechandansamal/8bkc-chooser.git
+[submodule "8bkc-gamegear"]
+	path = 8bkc-gamegear
+	url = https://github.com/shreechandansamal/8bkc-gamegear.git
