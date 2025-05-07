@@ -1,3 +1,6 @@
 [submodule "8bkc-sdk"]
 	path = 8bkc-sdk
 	url = https://github.com/shreechandansamal/8bkc-sdk.git
+[submodule "8bkc-chooser"]
+	path = 8bkc-chooser
+	url = https://github.com/shreechandansamal/8bkc-chooser.git
