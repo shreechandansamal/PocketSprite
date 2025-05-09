@@ -13,3 +13,6 @@
 [submodule "8bkc-nofrendo"]
 	path = 8bkc-nofrendo
 	url = https://github.com/shreechandansamal/8bkc-nofrendo.git
+[submodule "8bkc-fluppy"]
+	path = 8bkc-fluppy
+	url = https://github.com/shreechandansamal/8bkc-fluppy
